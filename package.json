@@ -17,6 +17,12 @@
     "url": "https://github.com/mcb7729/myFlix-client/issues"
   },
   "homepage": "https://github.com/mcb7729/myFlix-client#readme",
-  "main": "index.html",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.6.2"
+  }
 }
